@@ -1,0 +1,2 @@
+# xl_edit_memo
+主にxlwings系のExcel操作を含んだプログラム
